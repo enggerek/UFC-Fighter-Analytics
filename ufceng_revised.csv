@@ -1,0 +1,91 @@
+FIGHTER,COUNTRY,TKO_WINS,TKO_LOSSES,SUB_WINS,SUB_LOSSES,PRIMARY_STYLE,WIN_RATE,TOTAL_FIGHTS,TOTAL_WINS,TOTAL_LOSSES,DRAW,RECORD,AGE,FINISHING_RATE
+Jon Jones,USA,11,0,7,0,Muay Thai,93.33,30,28,1,0,28-1-0,37,60.0
+Max Holloway,USA,12,1,2,1,Striking,76.47,34,26,8,0,26-8-0,33,41.2
+Justin Gaethje,USA,20,3,1,2,Striking,83.87,31,26,5,0,26-5-0,36,67.7
+Neil Magny,USA,8,5,4,6,Striking,69.04,42,29,14,0,29-14-0,37,28.6
+Sean Brady,USA,3,1,6,0,Brazilian Jiu-Jitsu,94.73,19,18,1,0,18-1-0,32,47.4
+Sean O' Malley,USA,12,1,1,0,Striking,85.71,21,18,2,0,18-2-0,30,61.9
+Dustin Porier,USA,16,3,7,4,Brazilian Jiu-Jitsu,75.0,40,30,9,0,30-9-0,36,57.5
+Colby Covington,USA,3,2,5,1,Wrestling,77.27,22,17,5,0,17-5-0,37,36.4
+Michael Chandler,USA,11,4,7,1,Striking,69.69,33,23,10,0,23-10-0,38,54.5
+Stephen Thompson,USA,8,2,1,1,Kickboxing,80.95,21,17,8,1,17-8-1,42,42.9
+Holly Holm,USA,8,1,0,2,Striking,65.21,23,15,7,0,15-7-0,43,34.8
+Frankie Edgar,USA,6,5,4,0,Wrestling,63.88,36,23,11,1,23-11-1,43,27.8
+Jorge Masvidal,USA,16,2,2,2,Wrestling,67.3,52,35,17,0,35-17-0,40,34.6
+Derrick lewis,USA,23,7,1,2,Striking,68.29,41,28,12,0,28-12-0,40,58.5
+Robbie Lawler,USA,22,3,1,6,Striking,63.82,47,30,16,0,30-16-0,43,48.9
+Hakeem Davodu,CANADA,7,0,0,1,Muay Thai,72.22,18,13,4,1,13-4-1,33,38.9
+Kyle Nelson,CANADA,6,3,4,1,Kickboxing,69.56,23,16,6,1,16-6-1,33,43.5
+Charles Jourdain,CANADA,8,1,6,1,Striking,64.0,25,16,8,1,16-8-1,29,56.0
+Jasmine Jasudavicius,CANADA,2,0,3,0,Brawler,81.25,16,13,3,0,13-3-0,36,31.3
+Jamey-Lyn Horth,CANADA,3,0,2,0,Kickboxing,77.77,9,7,2,0,7-2-0,35,55.6
+Magomed Ankalaev,RUSSIA,11,0,0,1,Striking,91.3,23,21,1,1,21-1-1,32,47.8
+Sergei Pavlovich,RUSSIA,15,2,0,0,Striking,86.36,22,19,3,0,19-3-0,32,68.2
+Islam Makhachev,RUSSIA,5,1,13,0,Wrestling,96.42,28,27,1,0,27-1-0,33,64.3
+Petr Yan,RUSSIA,7,0,1,0,Striking,78.26,23,18,5,0,18-5-0,32,34.8
+Alexander Volkov,RUSSIA,24,2,4,3,Striking,77.55,49,38,11,0,38-11-0,36,57.1
+Khamzat Chimaev,RUSSIA,6,0,6,0,Freestyle,100.0,14,14,0,0,14-0-0,30,85.7
+Usman Nurmagomedov,RUSSIA,8,0,6,0,Wrestling,100.0,19,19,0,0,19-0-0,26,73.7
+Umar Nurmagomedov,RUSSIA,2,0,7,0,Wrestling,94.73,19,18,1,0,18-1-0,29,47.4
+Shara Magomedov,RUSSIA,12,0,0,0,Striking,93.75,16,15,1,0,15-1-0,30,75.0
+Ikram Aliskerov,RUSSIA,6,2,5,0,Sambo,88.23,17,15,2,0,15-2-0,32,64.7
+Charles Oliveira,BRAZIL,10,4,21,4,Brazilian Jiu-Jitsu,76.08,46,35,10,0,35-10-0,35,67.4
+Gilbert Burns,BRAZIL,6,3,9,0,Striking,73.33,30,22,8,0,22-8-0,38,50.0
+Alex Pereirra,BRAZIL,10,1,0,1,Striking,80.0,15,12,3,0,12-3-0,37,66.7
+Jose Aldo,BRAZIL,17,4,1,1,Striking,78.04,41,32,9,0,32-9-0,38,43.9
+Johnny Walker,BRAZIL,16,6,3,1,Striking,67.74,31,21,9,0,21-9-0,33,61.3
+Paulo Costa,BRAZIL,11,1,1,0,Striking,77.77,18,14,4,0,14-4-0,33,66.7
+Caio Borralho,BRAZIL,5,0,4,0,Muay Thai,89.47,19,17,1,0,17-1-0,32,47.4
+Natalia Silva,BRAZIL,5,1,7,2,Teakwando,75.0,24,18,5,1,18-5-1,28,50.0
+Diego Lopoes,BRAZIL,10,2,12,0,Brazilian Jiu-Jitsu,78.78,33,26,7,0,26-7-0,30,66.7
+Deiveson Figueiredo,BRAZIL,9,1,9,1,Wrestling,75.0,32,24,4,1,24-4-1,37,56.3
+Alexandre Pantoja,BRAZIL,8,0,11,0,Brazilian Jiu-Jitsu,85.29,34,29,5,0,29-5-0,34,55.9
+Jean Silva,BRAZIL,12,0,2,0,Striking,88.88,18,16,2,0,16-2-0,28,77.8
+Zhang Weili,CHINA,11,1,8,0,Muay Thai,89.65,29,26,3,0,26-3-0,35,65.5
+Song Yadong,CHINA,9,2,3,0,Sanda,68.75,32,22,8,0,22-8-0,27,37.5
+Yan Xiaonan,CHINA,8,1,1,1,Sanda,79.16,24,19,4,0,19-4-0,35,37.5
+Li Jingliang,CHINA,10,1,4,2,Brazilian Jiu-Jitsu,67.85,28,19,9,0,19-9-0,37,50.0
+Song Kenan,CHINA,9,5,9,0,Striking,70.96,31,22,9,0,22-9-0,35,58.1
+Zhang Mingyang,CHINA,12,3,6,2,Striking,75.0,24,18,6,0,18-6-0,26,75.0
+Shi Ming,CHINA,2,1,6,1,Striking,77.27,22,17,5,0,17-5-0,30,36.4
+Manon Fiorot,FRANCE,6,0,0,0,Karate,92.3,13,12,1,0,12-1-0,35,46.2
+Fares Ziam,FRANCE,6,0,4,3,Kickboxing,80.95,21,17,4,0,17-4-0,28,47.6
+Taylor Lapilus,FRANCE,4,0,6,0,Striking,84.0,25,21,4,0,21-4-0,32,40.0
+Natan Levly,FRANCE,0,0,3,1,Karate,80.0,10,8,2,0,8-2-0,33,30.0
+Benoit Saint Denis,FRANCE,4,2,9,0,Brazilian Jiu-Jitsu,76.47,17,13,3,0,13-3-0,29,76.5
+Morgan Charriere,FRANCE,12,0,3,1,Striking,64.51,31,20,11,0,20-11-0,29,48.4
+William Gomis,FRANCE,7,0,1,1,Sanda,82.35,17,14,3,0,14-3-0,27,47.1
+Kevin Jousset,FRANCE,5,2,1,0,Judo,71.42,14,10,4,0,10-4-0,31,42.9
+Oumar Sy,FRANCE,4,0,4,0,Striking,100.0,11,11,0,0,11-0-0,29,72.7
+Nora Cornolle,FRANCE,6,0,1,0,Muay Thai,80.0,10,8,2,0,8-2-0,35,70.0
+Yair Rodriguez,MEXICO,6,3,4,1,Teakwando,76.0,25,19,5,0,19-5-0,32,40.0
+Brandon Moreno,MEXICO,5,0,11,0,Brazilian Jiu-Jitsu,68.75,32,22,8,2,22-8-2,31,50.0
+Alexa Grasso,MEXICO,4,0,2,1,Brazilian Jiu-Jitsu,76.19,21,16,4,1,16-4-1,31,28.6
+Irene Aldana,MEXICO,8,2,3,0,Striking,65.21,23,15,8,0,15-8-0,37,47.8
+Gabriel Benitez,MEXICO,9,4,10,3,Brazilian Jiu-Jitsu,65.71,35,23,13,0,23-13-0,36,54.3
+Polo Reyes,MEXICO,6,7,1,2,Brazilian Jiu-Jitsu,76.19,20,16,9,0,16-9-0,40,35.0
+Lupita Godinez,MEXICO,1,0,2,0,Brazilian Jiu-Jitsu,70.58,17,12,5,0,12-5-0,31,17.6
+Daniel Zelhuber,MEXICO,7,0,3,0,Wrestling,88.23,17,15,2,0,15-2-0,25,58.8
+Yazmin Jauregui,MEXICO,7,1,0,1,Freestyle,84.61,13,11,2,0,11-2-0,26,53.8
+Victor Altamirano,MEXICO,2,0,4,1,Striking,70.58,17,12,5,0,12-5-0,34,35.3
+Montserrat Rendon,MEXICO,0,0,0,0,Jiu-Jitsu,85.71,7,6,1,0,6-1-0,36,0.0
+Edgar Chairez,MEXICO,4,0,7,2,Striking,64.7,17,11,6,0,11-6-0,29,64.7
+Lone'er Kavanagh,ENGLAND,4,0,1,0,Striking,100.0,9,9,0,0,9-0-0,25,55.6
+Paddy Pimblett,ENGLAND,6,0,10,1,Brazilian Jiu-Jitsu,88.46,26,23,3,0,23-3-0,30,61.5
+Tom Aspinall,ENGLAND,11,0,4,1,Striking,83.33,18,15,3,0,15-3-0,31,83.3
+Arnold Allen,ENGLAND,7,0,4,0,Striking,86.95,23,20,3,0,20-3-0,31,47.8
+Nathaniel Wood,ENGLAND,8,2,5,2,Striking,77.77,27,21,6,0,21-6-0,31,48.1
+Mick Parkin,ENGLAND,6,0,1,0,Brazilian Jiu-Jitsu,90.9,11,10,1,0,10-1-0,29,63.6
+Alexander Volkanovski,AUSTRALIA,13,3,3,0,Brazilian Jiu-Jitsu,87.09,31,27,4,0,27-4-0,36,51.6
+Robert Whittaker,AUSTRALIA,11,3,5,2,Brazilian Jiu-Jitsu,79.41,34,27,8,0,27-8-0,34,47.1
+Tai Tuivasa,AUSTRALIA,14,3,0,3,Kickboxing,68.18,22,15,8,0,15-8-0,32,63.6
+Jack Della Maddalena,AUSTRALIA,12,1,2,1,Brazilian Jiu-Jitsu,89.47,19,17,2,0,17-2-0,28,73.7
+Jimmy Crute,AUSTRALIA,5,2,4,2,Brazilian Jiu-Jitsu,66.66,18,12,4,2,12-4-2,29,50.0
+Jake Matthews,AUSTRALIA,5,1,8,3,Brazilian Jiu-Jitsu,72.41,29,21,7,0,21-7-0,30,44.8
+Jamie Mullarkey,AUSTRALIA,10,6,3,0,Brazilian Jiu-Jitsu,68.0,25,17,8,0,17-8-0,30,52.0
+Josh Culibao,AUSTRALIA,5,1,1,0,Brazilian Jiu-Jitsu,68.75,16,11,4,1,11-4-1,30,37.5
+Jack Jenkins,AUSTRALIA,6,1,3,3,Freestyle,76.47,17,13,4,0,13-4-0,31,52.9
+Casey O'Neill,AUSTRALIA,3,0,2,1,Brazilian Jiu-Jitsu,83.33,12,10,2,0,10-2-0,27,41.7
+Tyson Pedro,AUSTRALIA,5,1,5,1,Brazilian Jiu-Jitsu,66.66,15,10,5,0,10-5-0,33,66.7
+Justin Tafa,AUSTRALIA,7,2,0,0,Striking,58.33,12,7,5,0,7-5-0,31,58.3
+Junior Tafa,AUSTRALIA,6,1,0,1,Kickboxing,66.66,9,6,3,0,6-3-0,28,66.7
