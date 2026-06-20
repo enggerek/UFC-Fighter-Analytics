@@ -54,6 +54,6 @@ The goal was to find patterns: which countries produce the most dominant fighter
 
 ## Tools Used
 
-- **Power BI Desktop** — Dashboard design and visualization
+- **Power BI Desktop** Dashboard design and visualization
 
 
