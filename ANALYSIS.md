@@ -27,7 +27,7 @@ The younger average age in this tier lines up with what's typically considered a
 3. Finishing Method: TKO vs. Submission
 
 ** The Numbers
-Within the rare elite tier, the average fighter has 9.0 TKO wins and 4.3 submission wins — roughly a 2.1:1 TKO-to-submission ratio.
+Within the rare elite tier, the average fighter has 9.0 TKO wins and 4.3 submission wins roughly a 2.1:1 TKO-to-submission ratio.
 Fighting Style Breakdown
 
 Among these 9 fighters, primary styles split as follows:
