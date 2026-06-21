@@ -63,5 +63,6 @@ A statistical deep dive into fighter finishing performance revealed:
 ## Tools Used
 
 - **Power BI Desktop** Dashboard design and visualization
+- Python for statistic analysis
 
 
