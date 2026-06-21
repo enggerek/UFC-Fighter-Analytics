@@ -6,7 +6,6 @@ df = pd.read_csv("ufceng_revised.csv",
                  sep=",",
                  encoding="utf-8-sig",
                  skipinitialspace=True)
-print(df.columns.tolist())
 #statistical values
 print("="*60)
 print("FINISHING_RATE STATISTICS")
